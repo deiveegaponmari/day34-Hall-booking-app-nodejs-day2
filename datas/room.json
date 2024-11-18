@@ -1,0 +1,41 @@
+[{
+    "id":1,
+    "Room name":"conference room A",
+    "booked status":true,
+    "Date":"12-11-2024",
+    "start time":"9 o'clock AM",
+    "End time":"5 o'clock PM"
+},
+{
+    "id":2,
+    "Room name":"Meeting room C",
+    "booked status":true,
+    "Date":"12-11-2024",
+    "start time":"9 o'clock AM",
+    "End time":"5 o'clock PM"
+},
+{
+    "id":1,
+    "Room name":"AC ROOM A",
+    "booked status":true,
+    "Date":"12-11-2024",
+    "start time":"9 o'clock AM",
+    "End time":"5 o'clock PM"
+},
+{
+    "id":1,
+    "Room name":"VIB room B",
+    "booked status":true,
+    "Date":"12-11-2024",
+    "start time":"9 o'clock AM",
+    "End time":"5 o'clock PM"
+},
+{
+    "id":1,
+    "Room name":"Electrical room A",
+    "booked status":true,
+    "Date":"12-11-2024",
+    "start time":"9 o'clock AM",
+    "End time":"5 o'clock PM"
+}
+]

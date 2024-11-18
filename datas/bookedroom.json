@@ -1,0 +1,56 @@
+[{
+    "id":1,
+    "customer name":"selvi",
+    "Room name":"conference room A",
+    "Date":"12-11-2024",
+    "start time":"9 o'clock AM",
+    "End time":"5 o'clock PM",
+    "booking id":101,
+    "booking date":"12-11-2024",
+    "booked status":true
+},
+{
+    "id":2,
+    "customer name":"selvi",
+    "Room name":"AC  room A",
+    "Date":"1-11-2024",
+    "start time":"4 o'clock AM",
+    "End time":"10o'clock PM",
+    "booking id":102,
+    "booking date":"1-11-2024",
+    "booked status":true
+},
+{
+    "id":3,
+    "customer name":"vanitha",
+    "Room name":"Non-AC room A",
+    "Date":"9-11-2024",
+    "start time":"3 o'clock AM",
+    "End time":"8 o'clock PM",
+    "booking id":103,
+    "booking date":"9-11-2024",
+    "booked status":true
+},
+{
+    "id":4,
+    "customer name":"bharath",
+    "Room name":"Electrical room C",
+    "Date":"2-11-2024",
+    "start time":"9 o'clock AM",
+    "End time":"5 o'clock PM",
+    "booking id":104,
+    "booking date":"2-11-2024",
+    "booked status":true
+},
+{
+    "id":5,
+    "customer name":"Thamotharan",
+    "Room name":"conference room A",
+    "Date":"16-11-2024",
+    "start time":"9 o'clock AM",
+    "End time":"5 o'clock PM",
+    "booking id":105,
+    "booking date":"16-11-2024",
+    "booked status":true
+}
+]
