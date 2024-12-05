@@ -35,13 +35,18 @@ web_server.get("/customerbooked",(req,res)=>{
     })
 })
 web_server.get("/customerbooked/:bookedcount",(req,res)=>{
-    const matchingdata=bookedroom.find((data)=>data.id == req.params.id)
+    //console.log(bookedroom)
+    const datacopy=[...bookedroom];
+    //console.log(datacopy)
+    const matchingdata=datacopy.find((data)=>data.id == req.params.bookedcount)
+    //console.log(bookedroom)
+    //console.log(matchingdata)
     if(matchingdata){
         res.status(200).json({
             message:"customer booked data  successfully",
             data:matchingdata
          })
-    }
+    }else
     res.status(200).json({
        message:"No customer booked data found",
        data:{}
