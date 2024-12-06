@@ -52,7 +52,7 @@ web_server.get("/customerbooked/:bookedcount",(req,res)=>{
        data:{}
     })
 })
-web_server.listen(3001,"localhost",()=>{
+web_server.listen(3001,()=>{
     console.log("server started");
     console.log("http://localhost:3001");
 })
